@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Postdoctoral fellow at Paris Brain Institute
+subtitle: Postdoctoral fellow at Paris Brain Institute
 
 profile:
   align: right
   image: fly_ania.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Hôpital Pitié, 47 Bd de l'Hôpital</p>
-    <p>75013 Paris, France</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
