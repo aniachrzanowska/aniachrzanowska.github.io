@@ -3,7 +3,7 @@ cv:
   location: Paris, France
   email: anna.chrzanowska@icm-institute.org
   website: https://aniachrzanowska.github.io/
-  social_networks:
+  social networks:
     - network: LinkedIn
       username: anna-chrzanowska-b6101b30a
     - network: Google Scholar
@@ -25,7 +25,7 @@ cv:
         details: "Cracow, Poland. Dissertation: *Circadian analysis of the orexin fibers distribution in the rat lateral geniculate nucleus of the thalamus*. Supervisor: Prof. Dr. Marian H. Lewandowski."
       - label: BSc in Neurobiology, Jagiellonian University (2012–2015)
         details: "Cracow, Poland. Dissertation: *Role of GABA-ergic innervation in the mammalian biological clock*. Supervisor: Prof. Dr. Marian H. Lewandowski."
-    research_experience:
+    research experience:
       - label: Postdoctoral Researcher — ICM, Paris Brain Institute (2024–present)
         details: "Bassem Hassan Lab, Paris, France. Investigating links between brain wiring structure, physiology, and behavior. *In vivo* two-photon calcium imaging in behaving flies; neurodevelopmental fly genetics."
       - label: Visiting Scientist — University of Mainz (2025)
@@ -42,7 +42,7 @@ cv:
         details: "Kuźnicki Lab, Warsaw, Poland. *In situ* proximity ligation assay (PLA) on brain slices for Huntington's disease research."
       - label: Erasmus+ Trainee — Neuroscience Institute, CNR (2015)
         details: "Matteoli Lab, Milan, Italy. Role of Eps8 in synapse plasticity; Western blot analysis."
-    awards_and_distinctions:
+    awards and distinctions:
       - bullet: Carnot Training Grant for short collaborative visits (2025)
       - bullet: Marie Skłodowska-Curie Actions Postdoctoral Fellowship (2025)
       - bullet: French Foundation for Medical Research (FRM) Postdoctoral Fellowship (2024)
@@ -71,14 +71,11 @@ cv:
       - bullet: "**Oral** — A cell-type specific understanding of innate defensive behaviors: the collicular perspective. Neuromatch 3.0 (2020)"
       - bullet: "**Poster** — Neural circuits of individuality in the context of learning. VIP & DIF, Paris, France (2024)"
       - bullet: "**Poster** — Locomotion shapes visually-evoked neural dynamics through modulation of collicular populations. COSYNE, Lisbon, Portugal (2024)"
-    student_supervision:
+    student supervision:
       - label: Master's Students
         details: Helin Polat, Hala Rachel El Hajj (2024–2025); Chaimae Ouriaghli Taouil (2021–2022); Liuyin Yang, Nidaa Elsayed (2019–2020); Carolina Tigre Avelar (2017–2018)
       - label: Bachelor's Students
         details: Sofia Rebiha Decesaro (2024); Diana Dayekh (2023–2024); Martyna Palys, Sade Adeyemi (2022–2023); Diethe Peeters, Tom Voet, Mathis Van den Bruel (2021–2022); Mathilda Corcoles (2020–2021)
-    major_collaborations:
-      - bullet: "**Alan Urban, NERF** — established novel technology to study cell-type specific brain-wide circuits in mice (opto-fUSI)."
-      - bullet: "**Nanoengineering team, imec** — tested *in vivo* a novel device for large-scale brain recordings."
-    scientific_community:
+    scientific community:
       - bullet: Teaching assistant, Transatlantic Behavioral Neuroscience Summer School (2021 – present)
       - bullet: Local teaching assistant, CAJAL NeuroKit Course at NERF (2022)
