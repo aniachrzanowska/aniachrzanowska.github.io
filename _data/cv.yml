@@ -1,337 +1,165 @@
-cv:
-  name: Anna Chrzanowska, PhD
-  headline: Neuroscientist
-  location: Paris, France
-  email: anna.chrzanowska@icm-institute.org
-  photo:
-  phone:
-  website: https://aniachrzanowska.github.io/
-  social_networks: []
-  custom_connections:
-    - placeholder: "ORCID: 0000-0002-6166-018X"
-      url: https://orcid.org/0000-0002-6166-018X
-      fontawesome_icon: orcid
-  sections:
-    summary_of_the_scientific_background:
-      - Experienced neuroscientist with 10+ years of expertise in behavioral
-        systems neuroscience. Specialized in a range of rodent behavioral
-        assays, neural circuits genetic manipulations, and neural activity
-        recordings (both *in vivo* freely moving and head-fixed
-        electrophysiology). Skilled in experimental setup design, optimization,
-        and troubleshooting, as well as performing microsurgeries. Demonstrated
-        success in securing fellowships, admissions to competitive training
-        programs and travel grants. Proven leadership in mentoring Master's and
-        Bachelor's students. Actively involved in organizing symposia and
-        conferences, and in science popularization. Engaged member of the
-        international community of young neuroscientists.
-    skills:
-      - label: Technical Skills
-        details: Rodent behavioral assays, neural circuits genetic manipulations, *in
-          vivo* electrophysiology (freely moving & head-fixed), two-photon
-          calcium imaging, microsurgeries, brain histology, viral injections,
-          optogenetics, chemogenetics, patch clamp recordings (*in vitro*).
-      - label: Engineering & Software
-        details: Experimental setup design, optimization, troubleshooting, Bonsai
-          reactive programming, Arduino, electronics, virtual reality
-          environments for mice.
-      - label: Professional
-        details: Mentoring, project supervision, scientific writing, manuscript editing,
-          organizing symposia/conferences, science popularization.
-    education:
-      - institution: Arenberg Doctoral School, KU Leuven Department of Science
-        area: Biology
-        degree: PhD
-        start_date: 2018-01
-        end_date: 2023-08
-        location: Leuven, Belgium
-        highlights:
-          - 'Dissertation: Unraveling the cell type specific underpinnings that
-            shape collicular mediated visual behaviors'
-          - 'Supervisor: Dr. Karl Farrow (Neuro-Electronics Research Flanders
-            NERF)'
-      - institution: Jagiellonian University
-        area: Neurobiology
-        degree: Master's Degree
-        start_date: 2015-10
-        end_date: 2017-11
-        location: Cracow, Poland
-        highlights:
-          - 'Dissertation: Circadian analysis of the orexin fibers distribution
-            in the rat lateral geniculate nucleus of the thalamus'
-          - 'Supervisor: Prof. Dr. Marian H. Lewandowski'
-      - institution: Jagiellonian University
-        area: Neurobiology
-        degree: Bachelor's Degree
-        start_date: 2012-10
-        end_date: 2015-07
-        location: Cracow, Poland
-        highlights:
-          - 'Dissertation: Role of GABA-ergic innervation in the mammalian
-            biological clock'
-          - 'Supervisor: Prof. Dr. Marian H. Lewandowski'
-    research_experience:
-      - company: Bassem Hassan lab, ICM – Paris Brain Institute
-        position: Postdoctoral Research
-        start_date: 2024-01-15
-        end_date: present
-        location: Paris, France
-        summary: 'Aim: To investigate links between brain wiring structure and
-          physiology and their significance for behavior.'
-        highlights:
-          - Neurodevelopmental fly genetics
-          - Behavioral experiments
-          - '*In vivo* two-photon calcium imaging on behaving flies'
-      - company: Marion Silies Lab, Johannes-Gutenberg-University of Mainz
-        position: Visiting Scientist
-        start_date: 2025-03-10
-        end_date: 2025-03-14
-        location: Mainz, Germany
-        summary: 'Aim: Data analysis of calcium imaging signals'
-      - company: Karl Farrow lab, NERF – empowered by imec, KU Leuven and VIB
-        position: PhD Research
-        start_date: 2018-01-01
-        end_date: 2023-08-31
-        location: Leuven, Belgium
-        summary: 'Aim: To investigate the role of distinct neuronal cell types in
-          visually-guided innate behaviors.'
-        highlights:
-          - Open-field behavioral paradigms to study innate behaviors in mice
-          - '*In vivo* freely-moving and head-fixed Neuropixels recordings in
-            mice'
-          - Cell-type specific optogenetics and chemogenetics
-          - Viral injections
-      - company: Jagiellonian University (under supervision of Dr. Marian H.
-          Lewandowski)
-        position: Undergraduate Research
-        start_date: 2012-10
-        end_date: 2017-11
-        location: Cracow, Poland
-        summary: 'Aim: To investigate circadian changes of orexinergic innervation in
-          rats’ visual system.'
-        highlights:
-          - Brain histology
-          - Assistance for *in vitro* patch clamp recordings
-      - company: Karl Farrow lab, NERF
-        position: Internship
-        start_date: 2017-03
-        end_date: 2017-07
-        location: Leuven, Belgium
-        summary: 'Aim: To establish a behavioral protocol for visually-triggered
-          orienting and defensive behaviors in a virtual reality environment.'
-        highlights:
-          - Virtual reality environment for mice
-          - Head-fixed behavioral protocols
-      - company: Behavioral Neurodynamics Lab (Ponomarenko/Korotkova Lab),
-          Leibniz-Institute for Molecular Pharmacology (FMP)
-        position: Internship
-        start_date: 2016-10
-        end_date: 2017-02
-        location: Berlin, Germany
-        summary: 'Aim: To investigate sleep and memory regulation by forebrain
-          circuits.'
-        highlights:
-          - Projection- and cell-type specific optogenetic interrogation
-          - Local field potential recordings *in vivo*
-          - Freely-moving behavioral protocols
-      - company: Laboratory of Neurodegeneration (Kuźnicki Lab), International Institute
-          of Molecular and Cell Biology
-        position: Internship
-        date: 2016-09
-        location: Warsaw, Poland
-        summary: 'Aim: To investigate the role of calcium-related proteins involved in
-          Huntington’s disease.'
-        highlights:
-          - Development of *in situ* proximity ligation assay (PLA) on brain
-            slices
-      - company: Laboratory of Cell Biology of the Synapse (Matteoli Lab), Neuroscience
-          Institute, CNR
-        position: Erasmus+ Traineeship Program
-        start_date: 2015-01
-        end_date: 2015-03
-        location: Milan, Italy
-        summary: 'Aim: To investigate the role and molecular mechanisms of Eps8, the
-          actin regulatory protein in synapse plasticity.'
-        highlights:
-          - Western blot analysis
-    awards_and_distinctions:
-      - bullet: Carnot Training Grant for short collaborative visits (2025)
-      - bullet: Marie Sklodowska-Curie Actions Postdoctoral Fellowship (2025)
-      - bullet: The French Foundation for Medical Research (FRM) Postdoctoral Fellowship
-          (2024)
-      - bullet: Fyssen Foundation Postdoctoral Fellowship (2023)
-      - bullet: Participant of Transylvanian Experimental Neuroscience Summer School
-          (TENSS) (2021)
-      - bullet: Participant of The Cajal NeuroKit Course (2021)
-      - bullet: Research Foundation – Flanders (FWO) PhD Fellowship (success rate ~20%)
-          (2018 - 2022)
-      - bullet: Travel Grant to attend The CAJAL Advanced Neuroscience Training
-          Programme (2018)
-      - bullet: Travel Grant to attend 7th Neuron Technology Summer School (2017)
-      - bullet: The Deans' Award for Outstanding Academic Achievement (2015/2016,
-          2016/2017)
-      - bullet: Laureate of the competition "Grasz o staż" ("Win the internship") (2016)
-      - bullet: Organizing Committee Award for the Best Theoretical Poster – 5th Aspects
-          of Neuroscience (2015)
-      - bullet: Scientific Committee Award for the Best Theoretical Poster – 4th Aspects
-          of Neuroscience (2014)
-    publications:
-      - title: 'Rethinking naturalistic behavior: The Terzolas Manifesto'
-        authors:
-          - '**Anna Chrzanowska**'
-          - Mateusz Kostecki
-          - Natalia Krasilshchikova
-          - Matilde Perrino
-          - Luigi Petrucco
-        doi: 10.31219/osf.io/ch3an_v2
-        journal: The Open Science Framework
-        date: 2025
-        highlights:
-          - 'Impact: This work criticizes the usefulness of the concept of
-            "naturalistic" in behavioral neuroscience.'
-          - 'Contribution: Conceptualization, manuscript writing and editing'
-      - title: Multiplexed Surface Electrode Arrays Based on Metal Oxide Thin-Film
-          Electronics for High-Resolution Cortical Mapping
-        authors:
-          - Horacio Londoño-Ramírez
-          - Xiaohua Huang
-          - Jordi Cools
-          - '**Anna Chrzanowska**'
-          - Clément Brunner
-          - Marco Ballini
-          - Luis Hoffman
-          - Soeren Steudel
-          - Cédric Rolin
-          - Carolina Mora Lopez
-          - Jan Genoe
-          - Sebastian Haesler
-        doi: 10.1002/advs.202308507
-        journal: Advanced Science
-        date: 2023
-        highlights:
-          - 'Impact: This work proposes an approach that solves a major problem
-            in high-density brain-monitoring systems.'
-          - 'Contributions: *In-vivo* electrophysiology experiments, manuscript
-            editing'
-      - title: 'Optogenetic fUSI for brain-wide mapping of neural activity mediating
-          collicular-dependent behaviors'
-        authors:
-          - Arnau Sans-Dublanc*
-          - '**Anna Chrzanowska***'
-          - Katja Reinhard
-          - Dani Lemmon
-          - Bram Nuttin
-          - Théo Lambert
-          - Gabriel Montaldo
-          - Alan Urban#
-          - Karl Farrow#
-        doi: 10.1016/j.neuron.2021.04.008
-        journal: Neuron
-        date: 2021
-        highlights:
-          - '(*equal contribution)'
-          - 'Impact: Demonstrated that optogenetic activation of different
-            neuronal populations in the superior colliculus each triggers
-            diverse behaviors.'
-          - 'Contribution: Co-lead author, performed the key experiments,
-            conceptualization of the study, experimental design, data analysis,
-            manuscript writing and editing'
-      - title: 'Research culture: science from bench to society'
-        authors:
-          - Lorenzo Canti
-          - '**Anna Chrzanowska**'
-          - M. Giulia Doglio
-          - Lia Martina
-          - Tim Van Den Bossche
-        doi: 10.1242/bio.058919
-        journal: Biology Open
-        date: 2021
-        highlights:
-          - '(all authors contributed equally)'
-          - 'Impact: This article disseminates the values of research culture in
-            science practices.'
-          - 'Contribution: Conceptualization, manuscript writing and editing'
-      - title: Multiple excitatory actions of orexins upon thalamo-cortical neurons in
-          dorsal lateral geniculate nucleus – implications for vision modulation
-          by arousal
-        authors:
-          - Lukasz Chrobok
-          - Katarzyna Palus
-          - '**Anna Chrzanowska**'
-          - Mariusz Kępczyński
-          - Marian Lewandowski
-        doi: 10.1038/s41598-017-08202-8
-        journal: Scientific Reports
-        date: 2017
-        highlights:
-          - 'Impact: This work offers insights into the impact of orexinergic
-            modulation in the visual thalamus.'
-          - 'Contribution: Performed immunohistochemical studies, data analysis
-            and interpretation, manuscript editing'
-      - title: Disinhibition of the intergeniculate leaflet network in the WAG/Rij rat
-          model of absence epilepsy
-        authors:
-          - Lukasz Chrobok
-          - Katrzyna Palus
-          - Jagoda S Jeczmien-Lazur
-          - '**Anna Chrzanowska**'
-          - Mariusz Kepczyński
-          - Marian Lewandowski
-        doi: 10.1016/j.expneurol.2016.12.014
-        journal: Experimental Neurology
-        date: 2017
-        highlights:
-          - 'Impact: This work shows for the first time the disinhibition of
-            intergeniculate leaflet (IGL) neurons in a model of absence
-            epilepsy.'
-          - 'Contribution: Performed immunohistochemical studies, data analysis
-            and interpretation, manuscript editing'
-      - title: The role of collicular cell types in behavioral reactions to different
-          threat intensities in mice
-        authors:
-          - Bram Nuttin*
-          - '**Anna Chrzanowska***'
-          - Amber Bruynsteen
-          - Arnau Sans-Dublanc#
-          - Karl Farrow#
-        journal: In preparation
-        highlights:
-          - '(*equal contribution)'
-          - 'Impact: Demonstrated that behavioral reaction strength to stimuli
-            increases with the perceived threat intensity.'
-          - 'Contribution: Co-lead author, performed the key experiments,
-            conceptualization of the study, experimental design, data analysis,
-            manuscript writing and editing'
-    conference_presentations:
-      - bullet: '**Invited Speaker:** How to write a successful MSCA proposal; PORT for
-          Health Neuroscience, Wroclaw, Poland (2025)'
-      - bullet: '**Invited Speaker:** Cell vibes: how collicular cell-types contribute
-          to guiding mice innate behaviors; Neurons in Action, Warsaw, Poland
-          (2025)'
-      - bullet: '**Oral Presentation:** Towards embracing brain complexity: lessons from
-          cell types of the superior colliculus; ENCODS Paris, France (2022)'
-      - bullet: '**Oral Presentation:** A cell-type specific understanding of innate
-          defensive behaviors: the collicular perspective; Neuromatch 3.0
-          (2020)'
-      - bullet: '**Poster Presentation:** Neural circuits of individuality in the
-          context of learning; VIP & DIF 2024, Paris, France (2024)'
-      - bullet: '**Poster Presentation:** Locomotion shapes visually-evoked neural
-          dynamics through modulation of collicular populations; COSYNE, Lisbon,
-          Portugal (2024)'
-    student_supervision:
-      - label: Master Students
-        details: Helin Polat, Hala Rachel El Hajj (2024-2025); Chaimae Ouriaghli Taouil
-          (2021-2022); Liuyin Yang, Nidaa Elsayed (2019-2020); Carolina Tigre
-          Avelar (2017-2018)
-      - label: Bachelor Students
-        details: Sofia Rebiha Decesaro (2024); Diana Dayekh (2023-2024); Martyna Palys,
-          Sade Adeyemi (2022-2023); Diethe Peeters, Tom Voet, Mathis Van den
-          Bruel (2021-2022); Mathilda Corcoles (2020-2021)
-    major_collaborations:
-      - bullet: '**Alan Urban, NERF:** Established novel technology to study cell-type
-          specific brain-wide circuits in mice (opto-fUSI).'
-      - bullet: '**Nanoengineering team of imec:** Collaborated to test *in vivo* a
-          novel device for large-scale brain recordings.'
-    contribution_to_scientific_community:
-      - bullet: Teaching assistant at Transatlantic Behavioral Neuroscience Summer
-          School (2021 – present)
-      - bullet: Local teaching assistant at NERF for the Cajal NeuroKit Course (2022)
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Anna Chrzanowska, PhD
+    - name: Title
+      value: Neuroscientist
+    - name: Location
+      value: Paris, France
+    - name: Email
+      value: anna.chrzanowska@icm-institute.org
+    - name: Website
+      value: <a href="https://aniachrzanowska.github.io/">aniachrzanowska.github.io</a>
+    - name: ORCID
+      value: <a href="https://orcid.org/0000-0002-6166-018X">0000-0002-6166-018X</a>
+
+- title: Summary
+  type: list
+  contents:
+    - Experienced neuroscientist with 10+ years of expertise in behavioral systems neuroscience. Specialized in a range of rodent behavioral assays, neural circuit genetic manipulations, and neural activity recordings (both <em>in vivo</em> freely-moving and head-fixed electrophysiology). Skilled in experimental setup design, optimization, and troubleshooting, as well as performing microsurgeries. Demonstrated success in securing fellowships, admissions to competitive training programs, and travel grants. Proven leadership in mentoring Master's and Bachelor's students. Actively involved in organizing symposia and conferences, and in science popularization. Engaged member of the international community of young neuroscientists.
+
+- title: Skills
+  type: map
+  contents:
+    - name: Technical
+      value: Rodent behavioral assays, neural circuit genetic manipulations, <em>in vivo</em> electrophysiology (freely-moving & head-fixed), two-photon calcium imaging, microsurgeries, brain histology, viral injections, optogenetics, chemogenetics, patch clamp recordings (<em>in vitro</em>).
+    - name: Engineering & Software
+      value: Experimental setup design, optimization, troubleshooting, Bonsai reactive programming, Arduino, electronics, virtual reality environments for mice.
+    - name: Professional
+      value: Mentoring, project supervision, scientific writing, manuscript editing, organizing symposia and conferences, science popularization.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Biology
+      institution: Arenberg Doctoral School, KU Leuven — Leuven, Belgium
+      year: 2018 - 2023
+      description:
+        - "Dissertation: Unraveling the cell-type specific underpinnings that shape collicular-mediated visual behaviors"
+        - "Supervisor: Dr. Karl Farrow (Neuro-Electronics Research Flanders, NERF)"
+    - title: MSc in Neurobiology
+      institution: Jagiellonian University — Cracow, Poland
+      year: 2015 - 2017
+      description:
+        - "Dissertation: Circadian analysis of the orexin fibers distribution in the rat lateral geniculate nucleus of the thalamus"
+        - "Supervisor: Prof. Dr. Marian H. Lewandowski"
+    - title: BSc in Neurobiology
+      institution: Jagiellonian University — Cracow, Poland
+      year: 2012 - 2015
+      description:
+        - "Dissertation: Role of GABA-ergic innervation in the mammalian biological clock"
+        - "Supervisor: Prof. Dr. Marian H. Lewandowski"
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: Bassem Hassan Lab, ICM – Paris Brain Institute — Paris, France
+      year: 2024 - Present
+      description:
+        - "Aim: investigating links between brain wiring structure, physiology, and their significance for behavior"
+        - Neurodevelopmental fly genetics; behavioral experiments
+        - "<em>In vivo</em> two-photon calcium imaging in behaving flies"
+    - title: Visiting Scientist
+      institution: Marion Silies Lab, Johannes Gutenberg University of Mainz — Germany
+      year: 2025
+      description:
+        - "Aim: data analysis of calcium imaging signals"
+    - title: PhD Researcher
+      institution: Karl Farrow Lab, NERF (imec, KU Leuven & VIB) — Leuven, Belgium
+      year: 2018 - 2023
+      description:
+        - "Aim: investigating the role of distinct neuronal cell types in visually-guided innate behaviors"
+        - Open-field behavioral paradigms to study innate behaviors in mice
+        - "<em>In vivo</em> freely-moving and head-fixed Neuropixels recordings"
+        - Cell-type specific optogenetics and chemogenetics; viral injections
+    - title: Undergraduate Researcher
+      institution: Jagiellonian University, Marian H. Lewandowski Lab — Cracow, Poland
+      year: 2012 - 2017
+      description:
+        - "Aim: investigating circadian changes of orexinergic innervation in the rat visual system"
+        - "Brain histology; assistance with <em>in vitro</em> patch clamp recordings"
+    - title: Research Intern
+      institution: Karl Farrow Lab, NERF — Leuven, Belgium
+      year: 2017
+      description:
+        - "Aim: establishing a behavioral protocol for visually-triggered orienting and defensive behaviors in virtual reality"
+        - Virtual reality environment for mice; head-fixed behavioral protocols
+    - title: Research Intern
+      institution: Behavioral Neurodynamics Lab (Ponomarenko / Korotkova), Leibniz-Institute for Molecular Pharmacology (FMP) — Berlin, Germany
+      year: 2016 - 2017
+      description:
+        - "Aim: investigating sleep and memory regulation by forebrain circuits"
+        - Projection- and cell-type specific optogenetic interrogation
+        - "Local field potential recordings <em>in vivo</em>; freely-moving behavioral protocols"
+    - title: Research Intern
+      institution: Laboratory of Neurodegeneration (Kuźnicki Lab), International Institute of Molecular and Cell Biology — Warsaw, Poland
+      year: 2016
+      description:
+        - "Aim: investigating the role of calcium-related proteins involved in Huntington's disease"
+        - "Development of <em>in situ</em> proximity ligation assay (PLA) on brain slices"
+    - title: Erasmus+ Trainee
+      institution: Laboratory of Cell Biology of the Synapse (Matteoli Lab), Neuroscience Institute, CNR — Milan, Italy
+      year: 2015
+      description:
+        - "Aim: investigating the role and mechanisms of Eps8, an actin regulatory protein, in synapse plasticity"
+        - Western blot analysis
+
+- title: Awards & Distinctions
+  type: list
+  contents:
+    - Carnot Training Grant for short collaborative visits (2025)
+    - Marie Skłodowska-Curie Actions Postdoctoral Fellowship (2025)
+    - French Foundation for Medical Research (FRM) Postdoctoral Fellowship (2024)
+    - Fyssen Foundation Postdoctoral Fellowship (2023)
+    - Transylvanian Experimental Neuroscience Summer School (TENSS), participant (2021)
+    - CAJAL NeuroKit Course, participant (2021)
+    - Research Foundation – Flanders (FWO) PhD Fellowship, ~20% success rate (2018 - 2022)
+    - Travel Grant — CAJAL Advanced Neuroscience Training Programme (2018)
+    - Travel Grant — 7th Neuron Technology Summer School (2017)
+    - Deans' Award for Outstanding Academic Achievement (2015/16, 2016/17)
+    - "Laureate — \"Grasz o staż\" (\"Win the Internship\") competition (2016)"
+    - Best Theoretical Poster — 5th Aspects of Neuroscience (2015)
+    - Best Theoretical Poster — 4th Aspects of Neuroscience (2014)
+
+- title: Publications
+  type: list
+  contents:
+    - "<strong>Chrzanowska A</strong>, Kostecki M, Krasilshchikova N, Perrino M, Petrucco L. <em>Rethinking naturalistic behavior: The Terzolas Manifesto</em>. The Open Science Framework (2025). <a href=\"https://doi.org/10.31219/osf.io/ch3an_v2\">doi:10.31219/osf.io/ch3an_v2</a>"
+    - "Londoño-Ramírez H, Huang X, Cools J, <strong>Chrzanowska A</strong>, Brunner C, Ballini M, Hoffman L, Steudel S, Rolin C, Mora Lopez C, Genoe J, Haesler S. <em>Multiplexed surface electrode arrays based on metal oxide thin-film electronics for high-resolution cortical mapping</em>. Advanced Science (2023). <a href=\"https://doi.org/10.1002/advs.202308507\">doi:10.1002/advs.202308507</a>"
+    - "Sans-Dublanc A*, <strong>Chrzanowska A*</strong>, Reinhard K, Lemmon D, Nuttin B, Lambert T, Montaldo G, Urban A#, Farrow K#. <em>Optogenetic fUSI for brain-wide mapping of neural activity mediating collicular-dependent behaviors</em>. Neuron (2021). <a href=\"https://doi.org/10.1016/j.neuron.2021.04.008\">doi:10.1016/j.neuron.2021.04.008</a> <small>(*equal contribution; co-lead author)</small>"
+    - "Canti L, <strong>Chrzanowska A</strong>, Doglio MG, Martina L, Van Den Bossche T. <em>Research culture: science from bench to society</em>. Biology Open (2021). <a href=\"https://doi.org/10.1242/bio.058919\">doi:10.1242/bio.058919</a> <small>(all authors contributed equally)</small>"
+    - "Chrobok L, Palus K, <strong>Chrzanowska A</strong>, Kępczyński M, Lewandowski M. <em>Multiple excitatory actions of orexins upon thalamo-cortical neurons in dorsal lateral geniculate nucleus</em>. Scientific Reports (2017). <a href=\"https://doi.org/10.1038/s41598-017-08202-8\">doi:10.1038/s41598-017-08202-8</a>"
+    - "Chrobok L, Palus K, Jeczmien-Lazur JS, <strong>Chrzanowska A</strong>, Kępczyński M, Lewandowski M. <em>Disinhibition of the intergeniculate leaflet network in the WAG/Rij rat model of absence epilepsy</em>. Experimental Neurology (2017). <a href=\"https://doi.org/10.1016/j.expneurol.2016.12.014\">doi:10.1016/j.expneurol.2016.12.014</a>"
+    - "Nuttin B*, <strong>Chrzanowska A*</strong>, Bruynsteen A, Sans-Dublanc A#, Farrow K#. <em>The role of collicular cell types in behavioral reactions to different threat intensities in mice</em>. In preparation. <small>(*equal contribution; co-lead author)</small>"
+
+- title: Selected Presentations
+  type: list
+  contents:
+    - "<strong>Invited Speaker</strong> — How to write a successful MSCA proposal. PORT for Health Neuroscience, Wrocław, Poland (2025)"
+    - "<strong>Invited Speaker</strong> — Cell vibes: how collicular cell-types contribute to guiding mice innate behaviors. Neurons in Action, Warsaw, Poland (2025)"
+    - "<strong>Oral</strong> — Towards embracing brain complexity: lessons from cell types of the superior colliculus. ENCODS, Paris, France (2022)"
+    - "<strong>Oral</strong> — A cell-type specific understanding of innate defensive behaviors: the collicular perspective. Neuromatch 3.0 (2020)"
+    - "<strong>Poster</strong> — Neural circuits of individuality in the context of learning. VIP & DIF, Paris, France (2024)"
+    - "<strong>Poster</strong> — Locomotion shapes visually-evoked neural dynamics through modulation of collicular populations. COSYNE, Lisbon, Portugal (2024)"
+
+- title: Student Supervision
+  type: map
+  contents:
+    - name: Master's Students
+      value: "Helin Polat, Hala Rachel El Hajj (2024–2025); Chaimae Ouriaghli Taouil (2021–2022); Liuyin Yang, Nidaa Elsayed (2019–2020); Carolina Tigre Avelar (2017–2018)"
+    - name: Bachelor's Students
+      value: "Sofia Rebiha Decesaro (2024); Diana Dayekh (2023–2024); Martyna Palys, Sade Adeyemi (2022–2023); Diethe Peeters, Tom Voet, Mathis Van den Bruel (2021–2022); Mathilda Corcoles (2020–2021)"
+
+- title: Major Collaborations
+  type: list
+  contents:
+    - "<strong>Alan Urban, NERF</strong> — established novel technology to study cell-type specific brain-wide circuits in mice (opto-fUSI)."
+    - "<strong>Nanoengineering team, imec</strong> — tested <em>in vivo</em> a novel device for large-scale brain recordings."
+
+- title: Scientific Community
+  type: list
+  contents:
+    - Teaching assistant, Transatlantic Behavioral Neuroscience Summer School (2021 – present)
+    - Local teaching assistant, CAJAL NeuroKit Course at NERF (2022)
