@@ -23,6 +23,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<style>
+.container { max-width: 900px !important; }
+</style>
 
 I keep coming back to a simple question: how does a brain become capable of behavior?
 
