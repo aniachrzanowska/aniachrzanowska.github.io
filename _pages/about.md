@@ -25,6 +25,9 @@ latest_posts:
 ---
 <style>
 .container { max-width: 900px !important; }
+.social .contact-icons,
+.social .contact-icons a,
+.social .contact-icons i { font-size: 2rem !important; }
 </style>
 
 I keep coming back to a simple question: how does a brain become capable of behavior?
