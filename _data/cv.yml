@@ -2,7 +2,6 @@ cv:
   name: Anna Chrzanowska
   location: Paris, France
   email: anna.chrzanowska@icm-institute.org
-  website: https://aniachrzanowska.github.io/
   social networks:
     - network: LinkedIn
       username: anna-chrzanowska-b6101b30a
@@ -13,31 +12,25 @@ cv:
       - bullet: "Experienced neuroscientist with 10+ years of expertise in behavioral systems neuroscience, specializing in rodent behavioral assays, neural circuit genetic manipulations, and neural activity recordings (*in vivo* freely-moving and head-fixed electrophysiology, two-photon calcium imaging). Skilled in experimental setup design, troubleshooting, and microsurgeries. Successful in securing fellowships and competitive training programs. Active in mentoring, organizing symposia and conferences, science popularization, and the international community of young neuroscientists."
     skills:
       - label: Technical
-        details: Rodent behavioral assays, neural circuit genetic manipulations, *in vivo* electrophysiology (freely-moving & head-fixed), two-photon calcium imaging, microsurgeries, brain histology, viral injections, optogenetics, chemogenetics, patch clamp recordings (*in vitro*).
-      - label: Engineering & Software
-        details: Experimental setup design, optimization, troubleshooting, Bonsai reactive programming, Arduino, electronics, virtual reality environments for mice.
-      - label: Professional
-        details: Mentoring, project supervision, scientific writing, manuscript editing, organizing symposia and conferences, science popularization.
+        details: Rodent behavioral assays, neural circuit genetic manipulations, in vivo electrophysiology (freely-moving & head-fixed), two-photon calcium imaging, microsurgeries, brain histology, viral injections, optogenetics, chemogenetics.
     education:
       - label: PhD in Biology, KU Leuven (2018–2023)
-        details: "Arenberg Doctoral School, Leuven, Belgium. Dissertation: *Unraveling the cell-type specific underpinnings that shape collicular-mediated visual behaviors*. Supervisor: Dr. Karl Farrow (NERF)."
+        details: "Arenberg Doctoral School, Leuven, Belgium. Dissertation: Unraveling the cell-type specific underpinnings that shape collicular-mediated visual behaviors. Supervisor: Dr. Karl Farrow (NERF)."
       - label: MSc in Neurobiology, Jagiellonian University (2015–2017)
-        details: "Cracow, Poland. Dissertation: *Circadian analysis of the orexin fibers distribution in the rat lateral geniculate nucleus of the thalamus*. Supervisor: Prof. Dr. Marian H. Lewandowski."
+        details: "Krakow, Poland. Dissertation: Circadian analysis of the orexin fibers distribution in the rat lateral geniculate nucleus of the thalamus. Supervisor: Prof. Dr. Marian H. Lewandowski."
       - label: BSc in Neurobiology, Jagiellonian University (2012–2015)
-        details: "Cracow, Poland. Dissertation: *Role of GABA-ergic innervation in the mammalian biological clock*. Supervisor: Prof. Dr. Marian H. Lewandowski."
+        details: "Krakow, Poland. Dissertation: Role of GABA-ergic innervation in the mammalian biological clock. Supervisor: Prof. Dr. Marian H. Lewandowski."
     research experience:
       - label: Postdoctoral Researcher — ICM, Paris Brain Institute (2024–present)
-        details: "Bassem Hassan Lab, Paris, France. Investigating links between brain wiring structure, physiology, and behavior. *In vivo* two-photon calcium imaging in behaving flies; neurodevelopmental fly genetics."
-      - label: Visiting Scientist — University of Mainz (2025)
-        details: "Marion Silies Lab, Mainz, Germany. Data analysis of calcium imaging signals."
+        details: "Bassem Hassan Lab, Paris, France. Investigating links between brain wiring structure, physiology, and behavior. In vivo two-photon calcium imaging in behaving flies; neurodevelopmental fly genetics."
       - label: PhD Researcher — NERF, imec / KU Leuven / VIB (2018–2023)
-        details: "Karl Farrow Lab, Leuven, Belgium. Role of distinct neuronal cell types in visually-guided innate behaviors. *In vivo* freely-moving and head-fixed Neuropixels recordings; optogenetics, chemogenetics, viral injections."
+        details: "Karl Farrow Lab, Leuven, Belgium. Role of distinct neuronal cell types in visually-guided innate behaviors. In vivo freely-moving and head-fixed Neuropixels recordings; optogenetics, chemogenetics, viral injections."
       - label: Undergraduate Researcher — Jagiellonian University (2012–2017)
-        details: "Marian H. Lewandowski Lab, Cracow, Poland. Circadian changes of orexinergic innervation in the rat visual system; brain histology; *in vitro* patch clamp."
+        details: "Marian H. Lewandowski Lab, Cracow, Poland. Circadian changes of orexinergic innervation in the rat visual system; brain histology"
       - label: Research Intern — NERF (2017)
         details: "Karl Farrow Lab, Leuven, Belgium. Behavioral protocol for visually-triggered orienting and defensive behaviors in virtual reality."
       - label: Research Intern — Leibniz-Institute for Molecular Pharmacology, FMP (2016–2017)
-        details: "Ponomarenko / Korotkova Lab, Berlin, Germany. Sleep and memory regulation by forebrain circuits; optogenetics; *in vivo* local field potential recordings."
+        details: "Ponomarenko / Korotkova Lab, Berlin, Germany. Sleep and memory regulation by forebrain circuits; optogenetics; in vivo local field potential recordings."
       - label: Research Intern — Intl. Institute of Molecular and Cell Biology (2016)
         details: "Kuźnicki Lab, Warsaw, Poland. *In situ* proximity ligation assay (PLA) on brain slices for Huntington's disease research."
       - label: Erasmus+ Trainee — Neuroscience Institute, CNR (2015)
@@ -54,8 +47,6 @@ cv:
       - bullet: Travel Grant — 7th Neuron Technology Summer School (2017)
       - bullet: Deans' Award for Outstanding Academic Achievement (2015/16, 2016/17)
       - bullet: "Laureate — Grasz o staż (Win the Internship) competition (2016)"
-      - bullet: Best Theoretical Poster — 5th Aspects of Neuroscience (2015)
-      - bullet: Best Theoretical Poster — 4th Aspects of Neuroscience (2014)
     publications:
       - bullet: "**Chrzanowska A**, Kostecki M, Krasilshchikova N, Perrino M, Petrucco L. *Rethinking naturalistic behavior: The Terzolas Manifesto*. The Open Science Framework (2025). [doi:10.31219/osf.io/ch3an_v2](https://doi.org/10.31219/osf.io/ch3an_v2)"
       - bullet: "Londoño-Ramírez H, Huang X, Cools J, **Chrzanowska A**, et al. *Multiplexed surface electrode arrays based on metal oxide thin-film electronics for high-resolution cortical mapping*. Advanced Science (2023). [doi:10.1002/advs.202308507](https://doi.org/10.1002/advs.202308507)"
@@ -72,10 +63,8 @@ cv:
       - bullet: "**Poster** — Neural circuits of individuality in the context of learning. VIP & DIF, Paris, France (2024)"
       - bullet: "**Poster** — Locomotion shapes visually-evoked neural dynamics through modulation of collicular populations. COSYNE, Lisbon, Portugal (2024)"
     student supervision:
-      - label: Master's Students
-        details: Helin Polat, Hala Rachel El Hajj (2024–2025); Chaimae Ouriaghli Taouil (2021–2022); Liuyin Yang, Nidaa Elsayed (2019–2020); Carolina Tigre Avelar (2017–2018)
-      - label: Bachelor's Students
-        details: Sofia Rebiha Decesaro (2024); Diana Dayekh (2023–2024); Martyna Palys, Sade Adeyemi (2022–2023); Diethe Peeters, Tom Voet, Mathis Van den Bruel (2021–2022); Mathilda Corcoles (2020–2021)
+      - bullet: Master's Students: Helin Polat, Hala Rachel El Hajj (2024–2025); Chaimae Ouriaghli Taouil (2021–2022); Liuyin Yang, Nidaa Elsayed (2019–2020); Carolina Tigre Avelar (2017–2018)
+      - bullet: Bachelor's Students: Sofia Rebiha Decesaro (2024); Diana Dayekh (2023–2024); Martyna Palys, Sade Adeyemi (2022–2023); Diethe Peeters, Tom Voet, Mathis Van den Bruel (2021–2022); Mathilda Corcoles (2020–2021)
     scientific community:
       - bullet: Teaching assistant, Transatlantic Behavioral Neuroscience Summer School (2021 – present)
       - bullet: Local teaching assistant, CAJAL NeuroKit Course at NERF (2022)
